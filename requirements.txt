@@ -1,0 +1,6 @@
+sphinx
+myst-parser 
+sphinx-design
+furo
+sphinx-copybutton
+sphinx-book-theme
