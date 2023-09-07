@@ -13,5 +13,6 @@ At the start of each section, you will be given a milestone, which is a preview 
 :caption: Contents
 :glob:
 
-mg_step_and_score/index
+introduction.md
+mg1_step_and_score/step_and_score
 ```
