@@ -25,7 +25,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store','.venv','.git', 'README.m
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 
-html_title = 'Concept mini games for learning Verse and UEFN'
+html_title = '7 minigame concepts for UEFN/Verse lessons'
 
 #html_theme = 'alabaster'
 html_theme = 'furo'

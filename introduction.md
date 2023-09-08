@@ -1,3 +1,0 @@
-# Introduction
-
-Here we presents concepts for seven minigames suitable for lessons on the implementation of game mechanics in UEFN/Verse. Some ideas on aproach .. was presented in the kroki ... in, and ... ....
