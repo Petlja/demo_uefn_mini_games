@@ -6,7 +6,8 @@ We have been demonstrated an approuch to learning UEFN/Verse in a demo course [L
 
 Minigames we present here are, for the sake of simplicity, implemted on a single plane grid island with teleports from the player spawner location. Final game examples in lessons may upgrade presented cocepts to even more compleate game experiences, but also can be devided into milestones to allow more gradual steps throught lessons. 
 
-![Island in UEFN](big-picture.png)
+```{thumbnail} big-picture.png
+```
 
 ```{toctree}
 :maxdepth: 1
