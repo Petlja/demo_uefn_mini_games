@@ -15,4 +15,9 @@ Minigames we present here are, for the sake of simplicity, implemted on a single
 
 mg1_step_and_score/step_and_score
 mg2_item_exchange/item_exchange
+mg3_pick_and_put/pick_and_put
+mg4_moving_balls/moving_balls
+mg5_drop_and_catch/drop_and_catch
+mg6_push_the_box/push_the_box
+mg7_hit_right_cubes/hit_right_ cubes
 ```

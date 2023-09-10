@@ -4,3 +4,4 @@ sphinx-design
 furo==2023.5.20
 sphinx-copybutton
 sphinx-book-theme
+sphinxcontrib-images

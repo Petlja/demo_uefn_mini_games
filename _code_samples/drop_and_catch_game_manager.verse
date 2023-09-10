@@ -6,16 +6,13 @@ using { /Verse.org/Random }
 
 drop_and_catch_game_manager := class(creative_device):
     @editable
-    AppleProps: []creative_prop = array{}
-
-    @editable
     AppleMovers: []prop_mover_device = array{}
 
     @editable
     ScoreManager: score_manager_device = score_manager_device{}
 
     @editable
-    var Basket: creative_prop = creative_prop{}
+    Basket: creative_prop = creative_prop{}
 
     @editable
     RemoteManager: signal_remote_manager_device = signal_remote_manager_device{}
