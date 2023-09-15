@@ -11,10 +11,10 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 
 ## UEFN
 
+Note: Speech bubbles refers to the editable attributes in the Verse script below. Additionaly, `GameScore` is reused from the {ref}`first minigame <step_and_score_uefn>`.
+
 ```{thumbnail} push_the_box.svg
 ```
-
-Speech bubbles refers to the editable attributes in the Verse script below. Additionaly, `GameScore` is reused from the {ref}`first minigame <step_and_score_uefn>`.
 
 The trigger is attached to the cube.
 

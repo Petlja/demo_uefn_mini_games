@@ -11,10 +11,10 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 
 ## UEFN
 
+Note: Speech bubbles refers to editable attributes in the Verse script below. Additionaly, `GameScore` is reused from the {ref}`first minigame <step_and_score_uefn>`.
+
 ```{thumbnail} drop_and_catch.svg
 ```
-
-Speech bubbles refers to editable attributes in the Verse script below. Additionaly, `GameScore` is reused from the {ref}`first minigame <step_and_score_uefn>`.
 
 The apples in the basket are attached to the basket.
 

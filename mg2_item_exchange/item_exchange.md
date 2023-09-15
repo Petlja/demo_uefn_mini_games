@@ -11,7 +11,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 
 ## UEFN
 
-Here we use names of the editable attributes from the Verse script below. Additionaly, `GameScore` is reused from the {ref}`first minigame <step_and_score_uefn>`.
+Note: Speech bubbles refers to the names of editable attributes in the Verse scripts below. Additionaly, `GameScore` is reused from the {ref}`first minigame <step_and_score_uefn>`.
 
 ```{thumbnail} item_exchange.svg
 ```
