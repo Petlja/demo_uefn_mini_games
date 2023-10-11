@@ -1,4 +1,4 @@
-# Hit right_cubes
+# Hit right cubes
 
 ## Gameplay
 
@@ -11,9 +11,9 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 
 ## UEFN
 
-Note: Speech bubbles refers to the editable attributes in the Verse script below. Additionaly, `GameScore` is reused from the {ref}`first minigame <step_and_score_uefn>`.
+Note: Speech bubbles refer to the editable attributes in the Verse script below. Additionally, `GameScore` is reused from the {ref}`first minigame <step_and_score_uefn>`.
 
-```{thumbnail} hit_right_cubes.svg
+```{thumbnail} hit_right_cubes.png
 ```
 
 

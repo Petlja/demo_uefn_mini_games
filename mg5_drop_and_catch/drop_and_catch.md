@@ -3,7 +3,7 @@
 ## Gameplay
 
 ```{raw} html
-<iframe  src="https://www.youtube.com/embed/2_x4HAs_W7s" 
+<iframe  src="https://www.youtube.com/embed/MdpXLpuhEvU"
 style="width: 100%; aspect-ratio: 16 / 9;" title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
@@ -11,9 +11,9 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 
 ## UEFN
 
-Note: Speech bubbles refers to editable attributes in the Verse script below. Additionaly, `GameScore` is reused from the {ref}`first minigame <step_and_score_uefn>`.
+Note: Speech bubbles refer to editable attributes in the Verse script below. Additionally, `GameScore` is reused from the {ref}`first minigame <step_and_score_uefn>`.
 
-```{thumbnail} drop_and_catch.svg
+```{thumbnail} drop_and_catch.png
 ```
 
 The apples in the basket are attached to the basket.

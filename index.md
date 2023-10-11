@@ -1,10 +1,10 @@
 # 7 minigame concepts for UEFN/Verse lessons
 
-Here we present concepts for the seven minigames aimed to be used in lessons on custom game mechanics in UEFN/Verse. 
+Here we present concepts for the seven minigames designed to be used in lessons on custom game mechanics in UEFN/Verse. 
 
-We have been demonstrated an approuch to learning UEFN/Verse in a demo course [Learn to code with Verse and UEFN](https://petljamediastorage.blob.core.windows.net/temp/learn-verse/index.html), but that demo lacks more complete examles that could be used to jums-start into making games.
+Previously, we demonstrated an approach to learning UEFN/Verse in a demo course [Learn to code with Verse and UEFN](https://petljamediastorage.blob.core.windows.net/temp/learn-verse/index.html); however, this demo course lacks more complete examples that could help learners jump into game making.
 
-For the sake of simplicity, minigames we present here are implemted on a single plane grid island with teleports from the player spawner location. Final game examples in lessons may upgrade presented cocepts to even more compleate game experiences, but also can be devided into milestones to allow more gradual steps throught lessons. 
+For the sake of simplicity, minigames we present here are implemented  on a single plane grid island with teleports from the player spawner location. Final game examples in lessons may upgrade presented concepts to even more complete game experiences, and they can be divided into milestones to allow more gradual steps through lessons. 
 
 ```{thumbnail} big-picture.png
 ```
